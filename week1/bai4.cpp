@@ -20,3 +20,4 @@ int main(){
     rutgonphanso(a,b);
     return 0;
 }
+// Độ phức tạp thuật toán là O(1).
