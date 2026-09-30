@@ -14,3 +14,4 @@ int main(){
     cout << giaithua(n);
     return 0;
 }
+// Độ phức tạp thuật toán là O(n).
