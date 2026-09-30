@@ -26,3 +26,4 @@ int main(){
     }
     sort_arr(a,n);
 }
+//Độ phức tạp thuật toán là: O(n^2).
