@@ -19,3 +19,4 @@ int main(){
     cout << sumarr(a,n);
     return 0;
 }
+// Độ phức tạp thuật toán là: O(n).
