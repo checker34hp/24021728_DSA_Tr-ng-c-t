@@ -34,3 +34,4 @@ int main(){
     themphantu(n,a,m,y);
  return 0;
 }
+// Độ phức tạp thuật toán là O(n).
