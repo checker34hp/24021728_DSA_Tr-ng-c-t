@@ -18,3 +18,4 @@ int main(){
     }
  return 0;
 }
+// Độ phức tạp thuật toán là O(n).
